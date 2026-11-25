@@ -20,7 +20,8 @@
       "gonderiler/2026-11-25_lips/Lips_reel.mp4"
     ],
     "caption": "Bold red lips, 500 mm wide, made from sheet metal and rivets.\n\nThe full cut pattern (DXF, DWG and PDF guides) is on Etsy. Link in bio.\n\nWould you hang this in a studio or a bar?\n\n#lowpolyart #metalsculpture #lips #cncplasma #walldecor",
-    "durum": "bekliyor"
+    "durum": "bekliyor",
+    "hata": "    return opener.open(url, data, timeout)\n           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"/usr/local/lib/python3.13/urllib/request.py\", line 495, in open\n    response = meth(req, response)\n  File \"/usr/local/lib/python3.13/urllib/request.py\", line 604, in http_response\n    response = self.parent.error(\n        'http', request, response, code, msg, hdrs)\n  File \"/usr/local/lib/python3.13/urllib/request.py\", line 533, in error\n    return self._call_chain(*args)\n           ~~~~~~~~~~~~~~~~^^^^^^^\n  File \"/usr/local/lib/python3.13/urllib/request.py\", line 466, in _call_chain\n    result = func(*args)\n  File \"/usr/local/lib/python3.13/urllib/request.py\", line 613, in http_error_default\n    raise HTTPError(req.full_url, code, msg, hdrs, fp)\nurllib.error.HTTPError: HTTP Error 400: Bad Request\n"
   },
   {
     "tarih": "2026-11-27",
